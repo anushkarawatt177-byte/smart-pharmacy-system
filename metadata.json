@@ -1,0 +1,6 @@
+{
+  "name": "PharmAI - Smart Pharmacy Management System",
+  "description": "Professional, interactive smart pharmacy management system featuring inventory tracking, Point of Sale (POS), purchases, suppliers, prescriptions, expiry alerts, and business reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
